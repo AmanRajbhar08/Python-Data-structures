@@ -18,5 +18,5 @@ sample_str=input("Enter a string word or stentance :")
 #input the substirgn for count 
 sub_string=input("Enter the sub string you want to count in string :")
 
-#printing the no of time substirng occurent by calling count substring method 
+#printing the no of time substirng occurent by calling count substring method
 print(f"{sub_string} occured {count_substr(sample_str,sub_string)} times in the string {sample_str}")
